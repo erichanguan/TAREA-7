@@ -21,13 +21,32 @@ ACTIVIDAD- CAPÍTULO 13 Y CAPÍTULO 14
 
 1.2 OBJETIVOS ESPECÍFICOS
 
-•	Consultar los temas relacionados al informe correspondiente a Carga y descarga del capacitador del libro de Análisis de Circuitos.
+- Consultar los temas relacionados al informe correspondiente del Inductor del libro de Análisis de Circuitos.
 
-•	Comprender el funcionamiento del capacitor al momento que se carga y de descarga.
+- Comprender el funcionamiento del transformador al momento que se carga y de descarga.
 
-•	Analizar y desarrollar circuitos magnéticos mediante su tipo de material, en serie y paralelo.
+- Analizar y desarrollar circuitos magnéticos mediante su tipo de material, en serie y paralelo.
+
+- Comprender el significado de transitorio y su estudio dentro de análisis de circuitos.
 
 2. MARCO TEÓRICO
+
+CAPITULO 13-INDUCTORES
+
+![](https://github.com/erichanguan/TAREA-7/blob/main/imagenes/cap13.1.png)
+
+![](https://github.com/erichanguan/TAREA-7/blob/main/imagenes/cap13.2.png)
+
+![](https://github.com/erichanguan/TAREA-7/blob/main/imagenes/cap13.3.png)
+
+CAPITULO 14-TRANSFORMADORES
+
+![](https://github.com/erichanguan/TAREA-7/blob/main/imagenes/cap14.1.png)
+
+![](https://github.com/erichanguan/TAREA-7/blob/main/imagenes/cap14.2.png)
+
+![](https://github.com/erichanguan/TAREA-7/blob/main/imagenes/cap14.3.png)
+
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
