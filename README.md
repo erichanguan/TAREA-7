@@ -49,6 +49,38 @@ CAPITULO 14-TRANSFORMADORES
 
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+![](https://github.com/erichanguan/TAREA-7/blob/main/imagenes/13.1%20cap13.png)
+
+![](https://github.com/erichanguan/TAREA-7/blob/main/imagenes/13.2%20cap13.png)
+
+![](https://github.com/erichanguan/TAREA-7/blob/main/imagenes/13.3%20cap13.png)
+
+![](https://github.com/erichanguan/TAREA-7/blob/main/imagenes/13.4%20cap13.png)
+
+![](https://github.com/erichanguan/TAREA-7/blob/main/imagenes/13.5%20cap13.png)
+
+![](https://github.com/erichanguan/TAREA-7/blob/main/imagenes/13.6%20cap13.png)
+
+![](https://github.com/erichanguan/TAREA-7/blob/main/imagenes/13.7%20cap13.png)
+
+![](https://github.com/erichanguan/TAREA-7/blob/main/imagenes/14.1%20cap14.png)
+
+![](https://github.com/erichanguan/TAREA-7/blob/main/imagenes/14.2%20cap14.png)
+
+![](https://github.com/erichanguan/TAREA-7/blob/main/imagenes/14.3%20cap14.png)
+
+![](https://github.com/erichanguan/TAREA-7/blob/main/imagenes/14.4%20cap14.png)
+
+![](https://github.com/erichanguan/TAREA-7/blob/main/imagenes/14.5%20cap14.png)
+
+![](https://github.com/erichanguan/TAREA-7/blob/main/imagenes/14.6%20cap14.png)
+
+![](https://github.com/erichanguan/TAREA-7/blob/main/imagenes/14.7%20cap14.png)
+
+![](https://github.com/erichanguan/TAREA-7/blob/main/imagenes/14.8%20cap14.png)
+
+![](https://github.com/erichanguan/TAREA-7/blob/main/imagenes/14.9%20cap14.png)
+
 
 4.VIDEO
 
